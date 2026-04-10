@@ -1,0 +1,6 @@
+MPR  |  Arduino
+3,3V => 3,3V
+GND => GND
+SCL => A5
+SCK => A4
+
